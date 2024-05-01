@@ -1,7 +1,6 @@
 import java.util.*;
 public class combinationsum2 {
-    public static void combinations(int index, int target, ArrayList<Integer> arr, 
-        ArrayList<Integer> ds) {
+    public static void combinations(int index, int target, ArrayList<Integer> arr, ArrayList<Integer> ds) {
         if (target == 0) {
             System.out.println(ds);
             return;

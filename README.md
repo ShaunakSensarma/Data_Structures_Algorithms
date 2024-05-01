@@ -11,3 +11,4 @@
 8. Subset sum.
 9. Subset sum with unique subsets.
 10. Print all permutations of a given array.
+11. Palindrome Partitioning of a given string.
