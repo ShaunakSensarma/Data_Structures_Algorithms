@@ -12,3 +12,19 @@
 9. Subset sum with unique subsets.
 10. Print all permutations of a given array.
 11. Palindrome Partitioning of a given string.
+
+
+## Backtracking.
+1. N-Queens
+2. Sudoku solver.
+3. Rat in a maze.
+4. M-coloring problem.
+
+
+## Dynamic Programming.
+1. Fibonacci Series
+2. Climbing Stairs.
+3. Frog Jump-1.
+4. Frog Jump-2.
+5. House Robber-1.
+6. House Robber-2.
