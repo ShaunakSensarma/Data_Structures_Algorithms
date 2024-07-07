@@ -1,6 +1,6 @@
 # Data_Structures_Algorithms
 
-## Total Problem count = 11+4+6+2 = 23
+## Total Problem count = 11+4+6+3 = 24
 ## Recursion  
 1. Print all subsequences.
 2. Print subsequences with sum=k.
@@ -31,6 +31,7 @@
 6. House Robber-2.
 
 
-## Two pointer/sliding window technique. (2)
+## Two pointer/sliding window technique. (3)
 1. Longest subarray with sum less than or equal to K.
 2. Max sum from cards - only from ends.
+3. Longest substring without repeating characters.
