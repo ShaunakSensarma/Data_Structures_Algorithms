@@ -1,6 +1,6 @@
 # Data_Structures_Algorithms
 
-## Total Problem count = 11+4+6 = 21
+## Total Problem count = 11+4+6+2 = 23
 ## Recursion  
 1. Print all subsequences.
 2. Print subsequences with sum=k.
@@ -22,7 +22,7 @@
 4. M-coloring problem.
 
 
-## Dynamic Programming.
+## Dynamic Programming. (6)
 1. Fibonacci Series
 2. Climbing Stairs.
 3. Frog Jump-1.
@@ -31,5 +31,6 @@
 6. House Robber-2.
 
 
-## Two pointer/sliding window technique.
-1. 
+## Two pointer/sliding window technique. (2)
+1. Longest subarray with sum less than or equal to K.
+2. Max sum from cards - only from ends.
