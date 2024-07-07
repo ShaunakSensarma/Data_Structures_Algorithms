@@ -1,6 +1,7 @@
 # Data_Structures_Algorithms
 
-## Recursion
+## Total Problem count = 11+4+6 = 21
+## Recursion  
 1. Print all subsequences.
 2. Print subsequences with sum=k.
 3. Print only one subsequence with sum=k.
@@ -14,7 +15,7 @@
 11. Palindrome Partitioning of a given string.
 
 
-## Backtracking.
+## Backtracking. (4)
 1. N-Queens
 2. Sudoku solver.
 3. Rat in a maze.
@@ -28,3 +29,7 @@
 4. Frog Jump-2.
 5. House Robber-1.
 6. House Robber-2.
+
+
+## Two pointer/sliding window technique.
+1. 
